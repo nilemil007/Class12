@@ -1,0 +1,20 @@
+@media screen and (max-width: 575px) {
+  .footer-area .content{
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .footer-area img {
+    margin: auto;
+  }
+
+}
+
+@media screen and (max-width: 418px){
+  .brand span{
+    font-size: 20px;
+  }
+  .navbar-toggler{
+    font-size: 12px;
+  }
+
+}
